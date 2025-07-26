@@ -25,7 +25,6 @@ You are asked to design an Online Course Management System using OOP principles.
 Task 2: Code (JavaScript Implementation)
 
 ```
-// Base User class
 class User {
   constructor(userID, name, email) {
     this.userID = userID;
