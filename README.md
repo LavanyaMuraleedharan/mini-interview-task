@@ -12,8 +12,8 @@ You are asked to design an Online Course Management System using OOP principles.
  Course Creation  Enrollment
  Assignment Upload and Grading  Role-based Access Control
 
-Task 1: UML Class Diagram
-
+## Task 1: UML Class Diagram
+<img width="868" height="1227" alt="image" src="https://github.com/user-attachments/assets/80783327-dac4-45c5-8c06-e67e2005b9ff" />
 
 
 ## Relationships:
